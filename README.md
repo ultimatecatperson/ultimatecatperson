@@ -4,7 +4,6 @@
 - 👀 I’m interested in coding, circuitry, soldering, video editing, photo editing, graphic design, creative design, robotics, AI exploration
 - 🌱 I’m currently learning Godot
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I think Apple and KitKats are superior to all!
 
 <!---
 ultimatecatperson/ultimatecatperson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
