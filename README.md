@@ -3,7 +3,6 @@
 - 👋 Hi, I’m ultimatecatperson
 - 👀 I’m interested in CATS!!!!!!! coding, circuitry, soldering, video editing, photo editing, graphic design, creative design, robotics, AI exploration, 3D printing, playing piano
 - 🌱 I’m currently learning Godot
-- 😄 Pronouns: He/Him
 
 <!---
 ultimatecatperson/ultimatecatperson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
